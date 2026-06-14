@@ -47,7 +47,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Par3saheydari :kissing_closed_eyes:](https://github.com/par3aheydari)
 - [Nila Vosoughzadeh 🖥️😀](https://github.com/NilaVosoughzadeh)
 - [**Erfan Heydari ❤️**](https://github.com/DlvErf419)
-- [Hossein Bachari ] (https://github.com/hosseinbachari)
+- [Hossein Bachari](https://github.com/hosseinbachari)
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
 - [fatemeh_nikookar] (https://github.com/nikmahla)
 - [Sepehr Abdolmanafi💻](https://github.com/gigasepehr)
